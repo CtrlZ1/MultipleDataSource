@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.itmayidu.datasource.DataSource1Config",
+      "name": "spring.datasource.test1",
+      "sourceMethod": "public javax.sql.DataSource testDataSource() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.itmayidu.datasource.DataSource2Config",
+      "name": "spring.datasource.test2",
+      "sourceMethod": "public javax.sql.DataSource testDataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
